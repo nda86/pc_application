@@ -1,0 +1,26 @@
+{
+  "name": "pc_application",
+  "version": "1.0.0",
+  "description": "Application for price checker.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nda86/pc_application.git"
+  },
+  "author": "NDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nda86/pc_application/issues"
+  },
+  "homepage": "https://github.com/nda86/pc_application#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4"
+  }
+}
